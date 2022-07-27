@@ -1,0 +1,12 @@
+User-agent: Googlebot
+Allow: /
+Disallow: /search
+Crawl-delay: 2
+
+User-agent: *
+Allow: /
+Disallow: /search
+Crawl-delay: 10
+Clean-param: ref /articles/
+Sitemap: https://utrodus.my.id/sitemap.xml
+Host: https://utrodus.my.id
