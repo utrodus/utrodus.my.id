@@ -27,299 +27,299 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "ed3c63fae7b44a4b697723f2900cf71a"
+    "revision": "45593eec20e92a60b55fcba422b58e3f"
   },
   {
     "url": "404/index.html",
-    "revision": "ed3c63fae7b44a4b697723f2900cf71a"
+    "revision": "45593eec20e92a60b55fcba422b58e3f"
   },
   {
     "url": "about/index.html",
-    "revision": "f6ee23aed50719eb6b4f4d206a66ad8a"
+    "revision": "d7657ea9c5d716d8741b46adbf76db4c"
   },
   {
-    "url": "assets/css/0.styles.6891a3e5.css",
-    "revision": "257e1070256d752450154b93b257ff1a"
+    "url": "assets/css/0.styles.f12fd186.css",
+    "revision": "a287265959aaec4a7b68560cbebea4b5"
   },
   {
     "url": "assets/data/404/index.json",
-    "revision": "bec51bfdee5c80d65a733d355eb7ffdd"
+    "revision": "33654f66ecbebe416ec85ea24ac47f4b"
   },
   {
     "url": "assets/data/about/index.json",
-    "revision": "b45604c188dd78ca63de3c82134fe058"
+    "revision": "e6c850e2e88e6a98302b7d1097d2032b"
   },
   {
     "url": "assets/data/blog/2/index.json",
-    "revision": "fbefe9fc880a0433ac14500fac9332ba"
+    "revision": "101176a3b62e142876854226fc0c58d8"
   },
   {
     "url": "assets/data/blog/3/index.json",
-    "revision": "27afb1f7e1de46d36665e437b458c10d"
+    "revision": "aef159e538e7e97ec6f33d5e460ae367"
   },
   {
     "url": "assets/data/blog/index.json",
-    "revision": "cc36146d36f35507e17f6690bb188f5e"
+    "revision": "08e86e6ff3cf8d72ef0d081e33d01f0a"
   },
   {
     "url": "assets/data/contact/index.json",
-    "revision": "b45604c188dd78ca63de3c82134fe058"
+    "revision": "e6c850e2e88e6a98302b7d1097d2032b"
   },
   {
     "url": "assets/data/index.json",
-    "revision": "b45604c188dd78ca63de3c82134fe058"
+    "revision": "e6c850e2e88e6a98302b7d1097d2032b"
   },
   {
     "url": "assets/data/portfolio/2/index.json",
-    "revision": "beac46f58e1fdd90a0dbd8d6ab6b5dc3"
+    "revision": "22508d0bbe1a90dc102104edfce18a87"
   },
   {
     "url": "assets/data/portfolio/index.json",
-    "revision": "248644fe0a0fd1518f14069b24612c0c"
+    "revision": "2d978702306820349190ff224e4b6dd2"
   },
   {
     "url": "assets/data/post/5-vue-ui-frameworks-for-rapid-ui-development/index.json",
-    "revision": "2bf4e64b7f4fcbfe097380544405b62d"
+    "revision": "242089934a6ce5e1f2e12e737bffdd4a"
   },
   {
     "url": "assets/data/post/add-another-version-of-php-in-laragon/index.json",
-    "revision": "a4df0e13e03f839a12dcbbf8f67c1f03"
+    "revision": "ba8ff1effc94088e2dacdec284dca819"
   },
   {
     "url": "assets/data/post/awesome-list-of-vue-js-libraries/index.json",
-    "revision": "c2593a7395b9fc8961c2365f5649c296"
+    "revision": "04eafc154e7859a32016a87a81eda2b4"
   },
   {
     "url": "assets/data/post/create-a-custom-loading-animation-component-in-nuxt-js-with-lottie/index.json",
-    "revision": "ea81e5f16648da37ed850212a712b30a"
+    "revision": "fba21ec62c0d4d200f555326bf590e1e"
   },
   {
     "url": "assets/data/post/create-a-jamstack-site-in-under-5-minutes/index.json",
-    "revision": "27e634eb92df947e501c3a870f8215b9"
+    "revision": "a5965c5d84027d40339d3cffe9882466"
   },
   {
     "url": "assets/data/post/deploy-plenti-site-on-netlify/index.json",
-    "revision": "7ee0812068acc23692f78d70bc632e2e"
+    "revision": "ca2f36460b8df89912404ec8b0728b42"
   },
   {
     "url": "assets/data/post/fix-vue-package-mismatch-error-on-vercel/index.json",
-    "revision": "7c84994b47dfa13be0bf37c4aa5811f6"
+    "revision": "961b8e554ffbc6361d2499a485becdfb"
   },
   {
     "url": "assets/data/post/how-to-use-vue-plugins-with-no-ssr-support-on-a-gridsome-project/index.json",
-    "revision": "e06b89331c919b7e13a7db97c94b1c1b"
+    "revision": "31b02e6a78e9040c118a8ffc621a4462"
   },
   {
     "url": "assets/data/post/integrating-netlify-cms-to-your-gridsome-site/index.json",
-    "revision": "4f33c2ceac36b1c62d15c7523d077f78"
+    "revision": "170d6cc3b69b05481c13b3ef393e610f"
   },
   {
     "url": "assets/data/post/let-s-create-ui-components-in-svelte/index.json",
-    "revision": "07dcfbc3f1237fef184dc5b1417788e9"
+    "revision": "edda3c09f7b5afdee11215d38d6cef4c"
   },
   {
     "url": "assets/data/post/my-tech-stack-2020/index.json",
-    "revision": "d031de1b13943c838fd4dde0608cebdb"
+    "revision": "1470fb61876c03ff402f1fd0235fe531"
   },
   {
     "url": "assets/data/post/people-you-should-follow-if-you-re-a-vue-developer/index.json",
-    "revision": "ba3d6352185269b550156ae1f5f4bcdf"
+    "revision": "9af33419c73cb9d15298451757f401e7"
   },
   {
     "url": "assets/data/post/reviewing-javascript-fundamentals/index.json",
-    "revision": "d0fac86bb24365c965fbc4e5d6fe79ca"
+    "revision": "9a34a1b6af4b48cee57a5a54944317af"
   },
   {
     "url": "assets/data/post/sharing-my-go-to-podcasts/index.json",
-    "revision": "66fc4f4d1817b6923515569d9b6d696c"
+    "revision": "2f15869af0bf10bead40926e25f8bd14"
   },
   {
     "url": "assets/data/post/top-nuxt-js-modules/index.json",
-    "revision": "3c38d495908c512cf064b75fd1e5eac2"
+    "revision": "602fa105995747d73154a7d47ab0c560"
   },
   {
     "url": "assets/data/post/track-your-website-with-umami/index.json",
-    "revision": "03e5eeeff4b9d5057af10fd3753b0fc8"
+    "revision": "5937f190b5aa13716986b4f488e2f437"
   },
   {
     "url": "assets/data/post/where-i-learn-vue-js/index.json",
-    "revision": "c3996213c7c378a5bc29d8971b768f2c"
+    "revision": "4322563ee5d00c7805957039308d2677"
   },
   {
     "url": "assets/data/post/woo-commerce-site-to-single-page-app-in-no-time/index.json",
-    "revision": "bafd293f0354896c602959bdf47d91c0"
+    "revision": "47943299a4b92eedc6832a2086c9f67d"
   },
   {
     "url": "assets/data/projects/apeldeskel/index.json",
-    "revision": "de57ffa2f7376e0cfb94e70641b325fb"
+    "revision": "f5e7bcba6e75a10601714a8fe645e698"
   },
   {
     "url": "assets/data/projects/bumi-glagah-arum/index.json",
-    "revision": "3e7deeab00e5cb2e396931538dec2b7d"
+    "revision": "b2a8e546496e9c933b55d6893b629dd2"
   },
   {
     "url": "assets/data/projects/doctor-appointment-app/index.json",
-    "revision": "64d911c30f48f48f18d7715971549a5d"
+    "revision": "a611e8376a0aacc10f2189f56ff6f37c"
   },
   {
     "url": "assets/data/projects/e-tani-blitar/index.json",
-    "revision": "130f71b931a9b9e93a2f50ffa322bad9"
+    "revision": "6ac5e13a0ff1200c890a55f1550f43ec"
   },
   {
     "url": "assets/data/projects/flutter-sleep-app/index.json",
-    "revision": "b19f64770fce33ce8d0c18ba5bb563ec"
+    "revision": "2fe2fe47decf45b475a516569ccd7810"
   },
   {
     "url": "assets/data/projects/jdih-kab-malang/index.json",
-    "revision": "41b5d681a73c52745c9f31f69d65862b"
+    "revision": "60b3359073ac38c393e6fcdc843d4875"
   },
   {
     "url": "assets/data/projects/koin-nu-kota-blitar/index.json",
-    "revision": "e21b752f7ef38846da405baf33c95464"
+    "revision": "790ac60a33e66aac7efcebc565f5da81"
   },
   {
     "url": "assets/data/projects/nusantaramartid/index.json",
-    "revision": "e0889b7a638ef6b1d6a2e0811b176dcb"
+    "revision": "d93f5555a4f931d6716f823bdfda1be0"
   },
   {
     "url": "assets/data/projects/silpusitron/index.json",
-    "revision": "693e1e82c1f9975a39442d1a7b19cb7b"
+    "revision": "63a328b5716844a1f88371705f94a547"
   },
   {
     "url": "assets/data/projects/smart-soil-selector/index.json",
-    "revision": "915abd1695750ef4d6aa2788a59bd2e2"
+    "revision": "fb0e702567d7b9e75a48c8d5f1fc4123"
   },
   {
     "url": "assets/data/resources/2/index.json",
-    "revision": "2e02b4548806877f38c69a93ffc8eb88"
+    "revision": "e5a9a3f028478ca039c6a9fa501d1685"
   },
   {
     "url": "assets/data/resources/3/index.json",
-    "revision": "a0c70412e5aa506bdbbb138b3623d6b9"
+    "revision": "59dbe8c27f6f6b4f1c6961603d953c66"
   },
   {
     "url": "assets/data/resources/4/index.json",
-    "revision": "1cbb9851d19b6515a247b2cb811e59d2"
+    "revision": "9ddae735b8eb622fbed45c5debb37adc"
   },
   {
     "url": "assets/data/resources/index.json",
-    "revision": "23d943f5f74e5bcdabbfa0d17d654f4d"
+    "revision": "e5b471c8f6ebe19e5796cf71a3b16186"
   },
   {
     "url": "assets/data/search/index.json",
-    "revision": "b45604c188dd78ca63de3c82134fe058"
+    "revision": "e6c850e2e88e6a98302b7d1097d2032b"
   },
   {
     "url": "assets/data/success/index.json",
-    "revision": "b45604c188dd78ca63de3c82134fe058"
+    "revision": "e6c850e2e88e6a98302b7d1097d2032b"
   },
   {
     "url": "assets/data/tag/analytics/index.json",
-    "revision": "e81264c125df3666a9376a130d5931ed"
+    "revision": "df2ce0be8207571d43159e0ab6f9c984"
   },
   {
     "url": "assets/data/tag/Basics/index.json",
-    "revision": "13d0d969adde2fdbbc3c8b22686b80bc"
+    "revision": "04848e2557305373164f43b8749c357a"
   },
   {
     "url": "assets/data/tag/Developers/index.json",
-    "revision": "8e6851d6d0361e422ac26a892659685a"
+    "revision": "2f198f5935b69b01d5d03ce601694459"
   },
   {
     "url": "assets/data/tag/ECommerce/index.json",
-    "revision": "8ce602d65bd96c62ab25928f4fb2bf8f"
+    "revision": "a882d23a46de4aaa9dec902b4a864e98"
   },
   {
     "url": "assets/data/tag/gridsome/index.json",
-    "revision": "5cfbc174e55499cefef6e2aa6a098e92"
+    "revision": "85d1ac27d265ebbcd019f5fb36a677d7"
   },
   {
     "url": "assets/data/tag/Jamstack/index.json",
-    "revision": "6be284e5476b123f3e6b960125ccb1ff"
+    "revision": "a97785a2824191bcc54cf9c1904df0cc"
   },
   {
     "url": "assets/data/tag/Javascript/index.json",
-    "revision": "83ff38403d5267ad9835c58b89c630af"
+    "revision": "e11452d7e212a30dd6670c54c9d4e96e"
   },
   {
     "url": "assets/data/tag/Laravel/index.json",
-    "revision": "feb808c8e3d553be523f3e0d80cd9289"
+    "revision": "a8e03accd0545c7b4983ad3e9adb705e"
   },
   {
     "url": "assets/data/tag/Learning/index.json",
-    "revision": "35cc167c90ead14ae52e4f9478d2281b"
+    "revision": "5aed6f998d84234b99b199d91235ca56"
   },
   {
     "url": "assets/data/tag/Netlify CMS/index.json",
-    "revision": "f9a0624635ecc6d81615cdc8c0592aa8"
+    "revision": "d169db6a74b4922c4da4955fa9855b88"
   },
   {
     "url": "assets/data/tag/Netlify/index.json",
-    "revision": "01197cb7ed510f7453cdcab07e76953c"
+    "revision": "ad0939f43ab96f82f1fc49225f657601"
   },
   {
     "url": "assets/data/tag/Nuxt/index.json",
-    "revision": "67b160f54cf85db2fed003e24cbc5fcc"
+    "revision": "8f228b8365f09a30fda1b6550e7b6eed"
   },
   {
     "url": "assets/data/tag/nuxtjs/index.json",
-    "revision": "592365f6ea566dc8ff54ecab55fd3dcd"
+    "revision": "f6e33c3c262bc4b528ca157fe1fe9e09"
   },
   {
     "url": "assets/data/tag/OSS Libraries/index.json",
-    "revision": "88bdd76575c4fe89ef051db58f76dedf"
+    "revision": "735c97b71c01212f476b2ab499cd84c9"
   },
   {
     "url": "assets/data/tag/Plenti/index.json",
-    "revision": "4421a349f84dd417029b2f46a3c0e421"
+    "revision": "7f0ab44477f018777a32f13159fee01b"
   },
   {
     "url": "assets/data/tag/PWA/index.json",
-    "revision": "70c78ec0ed9a8fa4e2d55d78ff3bf7a0"
+    "revision": "5dca50ca5128d050ed8e07a6e90731a6"
   },
   {
     "url": "assets/data/tag/Resources/index.json",
-    "revision": "f862e12a335a5b6c03772d9194119221"
+    "revision": "01e8e43301d97db27fe9cac541c0485b"
   },
   {
     "url": "assets/data/tag/SPA/index.json",
-    "revision": "1ff5cd0e7d48d59aa78278eb3d2915e5"
+    "revision": "14a16c2c62f08bdd0a30810893db657e"
   },
   {
     "url": "assets/data/tag/Stackbit/index.json",
-    "revision": "5c330a84b1fc4c51147158afcd895572"
+    "revision": "644af47eaa21320d65038e6763fadcfa"
   },
   {
     "url": "assets/data/tag/Svelte/index.json",
-    "revision": "94628a75461da278ba2b248227257875"
+    "revision": "15779da63a4dd7bc365cedade0d0c61e"
   },
   {
     "url": "assets/data/tag/Tech Stack/index.json",
-    "revision": "1dedd5ad8b4bdcbe96efba14a852a6f9"
+    "revision": "78648cf5323120b3873ddc9421bc7543"
   },
   {
     "url": "assets/data/tag/UI Component/index.json",
-    "revision": "8a72031fc9d41ff2bdeefe2bf3d92f1e"
+    "revision": "63d50ae115213d2d4f19d72e34e2220b"
   },
   {
     "url": "assets/data/tag/UI Libraries/index.json",
-    "revision": "39d256e0e0ba91d94a9e97b35ed78140"
+    "revision": "c3fc33d5064ebccd05c6756e7dec9518"
   },
   {
     "url": "assets/data/tag/vercel/index.json",
-    "revision": "7627a5a40f4ff91ae842cee086287da4"
+    "revision": "e50dcd31348dfe3d9d6160c27437ac91"
   },
   {
     "url": "assets/data/tag/Vue.js/index.json",
-    "revision": "afc00e0818d797f01a0b4df1445625de"
+    "revision": "8b7be10dde05a53a78290238f1280954"
   },
   {
     "url": "assets/data/tag/Vue/index.json",
-    "revision": "7c839c2b1781e6e69443e4d3c8cf3301"
+    "revision": "f8e601cc9e3ed0c99a497129c00da6d5"
   },
   {
-    "url": "assets/js/app.36c11c3c.js",
-    "revision": "5e1840d4b2ad5f55f8def33663fae846"
+    "url": "assets/js/app.e4569b8f.js",
+    "revision": "efadf7b02874704b95f24c3ff9c46730"
   },
   {
     "url": "assets/js/page--src-pages-404-vue.53e387d0.js",
@@ -350,8 +350,8 @@ self.__precacheManifest = [
     "revision": "d3f1d8829fb01f3c726e0cfd9b75be37"
   },
   {
-    "url": "assets/js/page--src-pages-search-vue.0d3dd020.js",
-    "revision": "37b7ce7132919cebcdc1d9d25256179f"
+    "url": "assets/js/page--src-pages-search-vue.4fcc5131.js",
+    "revision": "bf7104bf60930aa07c5dc7dbbf93e8cb"
   },
   {
     "url": "assets/js/page--src-pages-success-vue.40656d1b.js",
@@ -362,8 +362,8 @@ self.__precacheManifest = [
     "revision": "19b9637f5087c13f62d0e1955be212d4"
   },
   {
-    "url": "assets/js/page--src-templates-project-vue.477685f0.js",
-    "revision": "e334c5fbeca9ab3aa62bbcef12bb632b"
+    "url": "assets/js/page--src-templates-project-vue.05892558.js",
+    "revision": "3224ff53a5c90483e91d2a479ccd85ac"
   },
   {
     "url": "assets/js/page--src-templates-tag-vue.52fdd545.js",
@@ -679,23 +679,23 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/2/index.html",
-    "revision": "413e0f2792fd71def6f1e207f7b4084e"
+    "revision": "1f4479644baee9c41b568d8d33fdc364"
   },
   {
     "url": "blog/3/index.html",
-    "revision": "9bccd73802f9c37cf650ce37f82e06e9"
+    "revision": "11924f2a02d64d95b6b5f239d6b4cfa9"
   },
   {
     "url": "blog/index.html",
-    "revision": "83dc9e05e5b6e7a55d86a97af81ea983"
+    "revision": "077cf1a9f0382a32963a2ea364c70c32"
   },
   {
     "url": "contact/index.html",
-    "revision": "24dc1f04fb4f965a84f04698efb6b568"
+    "revision": "6ea1d7bc4e2eee2479c2283c1dbbc9c2"
   },
   {
     "url": "flexsearch.json",
-    "revision": "9a6fb7c4d6fb51258f21d4a6e88acae6"
+    "revision": "02376422ceab9d0e9417876fa736a391"
   },
   {
     "url": "icon.png",
@@ -703,7 +703,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "32a805fcbe0c538f6aabcbd5dcb7dfda"
+    "revision": "4ecc67213885e2f92955e88b6b66ecc5"
   },
   {
     "url": "manifest.json",
@@ -711,251 +711,251 @@ self.__precacheManifest = [
   },
   {
     "url": "portfolio/2/index.html",
-    "revision": "f4b7b8f04e629308870ea4b17ecb76e1"
+    "revision": "641bb10478fbc43a574a9c3796d7f2c1"
   },
   {
     "url": "portfolio/index.html",
-    "revision": "b4bae6800259bce22b4e2542478474bf"
+    "revision": "144e885f6b7c2d82e4c7cef1325f6cbd"
   },
   {
     "url": "post/5-vue-ui-frameworks-for-rapid-ui-development/index.html",
-    "revision": "90a591926f2fe45c4da170c2e010bd53"
+    "revision": "402927818919d95890711fe4819b1318"
   },
   {
     "url": "post/add-another-version-of-php-in-laragon/index.html",
-    "revision": "897c5543ee5c11a612dd67371ece170f"
+    "revision": "db2c0a7a3c803f5d238495923c37274d"
   },
   {
     "url": "post/awesome-list-of-vue-js-libraries/index.html",
-    "revision": "cec0c79de9f516c58d9ed95b0bdb5182"
+    "revision": "d3566dac06f72d215ff3438dc9dd4591"
   },
   {
     "url": "post/create-a-custom-loading-animation-component-in-nuxt-js-with-lottie/index.html",
-    "revision": "91efff03eba83607f310fd6e85836af0"
+    "revision": "4ad9b723e6026affe1f9d8809d407abb"
   },
   {
     "url": "post/create-a-jamstack-site-in-under-5-minutes/index.html",
-    "revision": "5ccc0d05855aa3d6f9dc103872a5ae0f"
+    "revision": "f0428b33ad4868cec5fbc8181ef24d2b"
   },
   {
     "url": "post/deploy-plenti-site-on-netlify/index.html",
-    "revision": "616c1873de39021b77893acc64634079"
+    "revision": "f4dcd715c952f3070c56df6dc9ed719f"
   },
   {
     "url": "post/fix-vue-package-mismatch-error-on-vercel/index.html",
-    "revision": "aebdf0fb5ec37feadc27548e70e23da3"
+    "revision": "7ba48281fb9806f20860d9557de77975"
   },
   {
     "url": "post/how-to-use-vue-plugins-with-no-ssr-support-on-a-gridsome-project/index.html",
-    "revision": "758e932a48cdebdc48fb2d20efb38000"
+    "revision": "4d5c6318f347bbf63654e74fc8eef4e0"
   },
   {
     "url": "post/integrating-netlify-cms-to-your-gridsome-site/index.html",
-    "revision": "3002661b68a62d3de97c52e15e845891"
+    "revision": "1f1b051b862394b7323477b86951dd63"
   },
   {
     "url": "post/let-s-create-ui-components-in-svelte/index.html",
-    "revision": "37b7e529caf5cd20a1d2767a59111896"
+    "revision": "ddfe732042e35b6188e1185ada797394"
   },
   {
     "url": "post/my-tech-stack-2020/index.html",
-    "revision": "61594044d19e9e446caeeeda8adbb23e"
+    "revision": "81005303f7395f95f2105f085f3ef83b"
   },
   {
     "url": "post/people-you-should-follow-if-you-re-a-vue-developer/index.html",
-    "revision": "a6c94fda298faa22c1206fcbe9b44049"
+    "revision": "36b79e8e144d102bb82f630aad27d939"
   },
   {
     "url": "post/reviewing-javascript-fundamentals/index.html",
-    "revision": "4439b1798e5b917157342bcaad64099f"
+    "revision": "967971dc977bdf30b70ff612bd9e71e5"
   },
   {
     "url": "post/sharing-my-go-to-podcasts/index.html",
-    "revision": "8e4490e7dda4ca6da20b7afd20a4c3a3"
+    "revision": "97ee07aca4116b5c441ecc75ac3bb83d"
   },
   {
     "url": "post/top-nuxt-js-modules/index.html",
-    "revision": "4585fdbc32ceb2c20f3b6e4338b9c10c"
+    "revision": "10b32548698471627146e433142bd8de"
   },
   {
     "url": "post/track-your-website-with-umami/index.html",
-    "revision": "ed1693a5315044d34fa19d08983bf99c"
+    "revision": "934e8fae6eed41b5bf817a933eceba11"
   },
   {
     "url": "post/where-i-learn-vue-js/index.html",
-    "revision": "6174f947a83b572fe4e176e25d5cde08"
+    "revision": "4d565971bc49ae1a0c24b5a2f1cc4ab1"
   },
   {
     "url": "post/woo-commerce-site-to-single-page-app-in-no-time/index.html",
-    "revision": "b22e6d32f0716306aeaeea84f7ccc519"
+    "revision": "4cd0104dbcd6af62bba906a82f007517"
   },
   {
     "url": "projects/apeldeskel/index.html",
-    "revision": "7b31b0f5375ffabd883a1a1599715400"
+    "revision": "0b5fda801f75f3715bf9b3c7b9e15c3e"
   },
   {
     "url": "projects/bumi-glagah-arum/index.html",
-    "revision": "4dda201489866ac988c15d27152e8553"
+    "revision": "5949a9448564efd37bff367cb8ce329a"
   },
   {
     "url": "projects/doctor-appointment-app/index.html",
-    "revision": "10f4573cb4b18a03bd3ba255c6acdab2"
+    "revision": "7e53f735111b4dbd061eb9e2f7d718ed"
   },
   {
     "url": "projects/e-tani-blitar/index.html",
-    "revision": "fb247fa85053443d5a866a3bd8deb8c2"
+    "revision": "0d25adcc150be2cb7bc2eac419f9f284"
   },
   {
     "url": "projects/flutter-sleep-app/index.html",
-    "revision": "5cf1d80515c1e36bc30b7f66120f5370"
+    "revision": "936a24880c30adb5508472fff9d639cc"
   },
   {
     "url": "projects/jdih-kab-malang/index.html",
-    "revision": "6c87c8964012daed5c6bfcd0d8b34f54"
+    "revision": "8de89338af0a6115baf4e9f63ad318a2"
   },
   {
     "url": "projects/koin-nu-kota-blitar/index.html",
-    "revision": "d4c87f7bfe2d35ec242a0d80a3cb13f9"
+    "revision": "3c094aa151292cfbecaa9cc85994327b"
   },
   {
     "url": "projects/nusantaramartid/index.html",
-    "revision": "1fbfed995b076a92dd3028ec017a5f8a"
+    "revision": "c09c59e3ccf85de6b9ca175b6b9af4f3"
   },
   {
     "url": "projects/silpusitron/index.html",
-    "revision": "beb6a348715610a54e423327dcfb9589"
+    "revision": "3b9fa2a13ec344886a125fdef6d94844"
   },
   {
     "url": "projects/smart-soil-selector/index.html",
-    "revision": "f3a9775ca89ad986fae415610178fb2a"
+    "revision": "5725379ff3570e4e075b4455ffb8c5ec"
   },
   {
     "url": "resources/2/index.html",
-    "revision": "7d514302a22bff6839c67f95404f8fca"
+    "revision": "1b2d194278f5dcb21e696a2b6eddda46"
   },
   {
     "url": "resources/3/index.html",
-    "revision": "78b781bf9f92ce288c72bfe951f6ebfa"
+    "revision": "5a3c20dff32cc588dfb88af17e88fea6"
   },
   {
     "url": "resources/4/index.html",
-    "revision": "11e08e5ccc6a3f47fd798b57a1e3e31f"
+    "revision": "7fe15702de5645454e465d297bd4d1c6"
   },
   {
     "url": "resources/index.html",
-    "revision": "7d992584497133b63a1137e827237547"
+    "revision": "4f225a242459b9d8e102e8aa5a54f191"
   },
   {
     "url": "search/index.html",
-    "revision": "290eed5a12181bbdf3b53f5af1339a35"
+    "revision": "e9ce569829ec9eff93126ce70ca917e8"
   },
   {
     "url": "success/index.html",
-    "revision": "e2e1e29cf324568ae08b5b947fa4b4c3"
+    "revision": "7f4e22ae2b48f038bcd1ac835ba48a2f"
   },
   {
     "url": "tag/analytics/index.html",
-    "revision": "f8a3ed5113e1dda52820ec3d4d760e43"
+    "revision": "67dde6d0aba2fb92cffcf0749819de40"
   },
   {
     "url": "tag/Basics/index.html",
-    "revision": "51598454c0e5b391472e4db8c3310a84"
+    "revision": "e1bbd871b49f2a359fbc07034875dad8"
   },
   {
     "url": "tag/Developers/index.html",
-    "revision": "07c3712ee161edb399ad83d2d15f836c"
+    "revision": "948b11406df099f13e2dbf70a59529b5"
   },
   {
     "url": "tag/ECommerce/index.html",
-    "revision": "30278c05d1d5087ee335bf121809d93b"
+    "revision": "50342f78fa788646d8a2d0c7923c9237"
   },
   {
     "url": "tag/gridsome/index.html",
-    "revision": "821f33182f95140d6e2e055b2286a7b6"
+    "revision": "a083c9abdbbb7631ebeb306359721710"
   },
   {
     "url": "tag/Jamstack/index.html",
-    "revision": "9d3aa27b1cfe42336d2c46d5a581c9c6"
+    "revision": "70f6a2783790d04e9024a5e957b55666"
   },
   {
     "url": "tag/Javascript/index.html",
-    "revision": "0d62e176a4904d829751ab6c083991a1"
+    "revision": "90deacee6e4853cc9f6d09f3de6b83e4"
   },
   {
     "url": "tag/Laravel/index.html",
-    "revision": "9e8753a3d6240d4f92bf404cb7c7eac8"
+    "revision": "e23f69e99a803712888dcca22b2f89dd"
   },
   {
     "url": "tag/Learning/index.html",
-    "revision": "dbdd6ea7890680881b432e726d23a299"
+    "revision": "46af0bea143ec6cf9b9c66c743b28732"
   },
   {
     "url": "tag/Netlify CMS/index.html",
-    "revision": "d65f88bc0a3380033264f2b81b9bfa1c"
+    "revision": "77a1c566950b3a0d497c7373f75c7186"
   },
   {
     "url": "tag/Netlify/index.html",
-    "revision": "41dc7ab156ed13c510a8048db767c100"
+    "revision": "4781017daddc40ee0dc76733f8159aa2"
   },
   {
     "url": "tag/Nuxt/index.html",
-    "revision": "52f83172614e665154d78394128c2359"
+    "revision": "b8fcc275c2aa3c4d9f28ff2375a743a0"
   },
   {
     "url": "tag/nuxtjs/index.html",
-    "revision": "cc49b27f3aafebc843a9cd7f2c77c6c5"
+    "revision": "d34f7c01a75c7728b88b6bd9a31746f7"
   },
   {
     "url": "tag/OSS Libraries/index.html",
-    "revision": "0b784cf080b3afa42c6e8f2c0312fd26"
+    "revision": "9fa6c5d93f450a1b56fd3693715f1038"
   },
   {
     "url": "tag/Plenti/index.html",
-    "revision": "f13694c48318185e46bb69df5a9ed05d"
+    "revision": "8913407a55160b6d75a9713690cbbeda"
   },
   {
     "url": "tag/PWA/index.html",
-    "revision": "88e1e58bb234b47fdc2f40e1066e893e"
+    "revision": "80243579a078164b1e629203a5b46f4a"
   },
   {
     "url": "tag/Resources/index.html",
-    "revision": "7f5bcc7e774cd58ea55d2b3bf9c7d88d"
+    "revision": "089f2e4da86e85642a32d4cf28831b33"
   },
   {
     "url": "tag/SPA/index.html",
-    "revision": "9b548bda069f46c91c691c302f589a43"
+    "revision": "dcb6d7666219368a4b6007994d5d187c"
   },
   {
     "url": "tag/Stackbit/index.html",
-    "revision": "ca5af676960ceb8b062dd49a3ce7639a"
+    "revision": "3562191eb27d52d0ea94b67fda49e8b8"
   },
   {
     "url": "tag/Svelte/index.html",
-    "revision": "b88455fed856470b1a5f833bee2ba7aa"
+    "revision": "ad60af395a58368fa0b3a4a995902df2"
   },
   {
     "url": "tag/Tech Stack/index.html",
-    "revision": "c03f5a55abb1cb57943acc314fbbd8b2"
+    "revision": "cabeb1c5dabd0cc7871d0e6ae3748844"
   },
   {
     "url": "tag/UI Component/index.html",
-    "revision": "2fa8f02c5e012e6f948b03da0e7adacc"
+    "revision": "c5d39727b43ca5c1923719864a0dbb1f"
   },
   {
     "url": "tag/UI Libraries/index.html",
-    "revision": "f6c6be1f41804f064a19de07b865b24d"
+    "revision": "6729e308f2abc70d4e36692486e837a6"
   },
   {
     "url": "tag/vercel/index.html",
-    "revision": "df18edb377b023ab136bbbf906d76616"
+    "revision": "9036b179645f245fba1720ea710ecc0b"
   },
   {
     "url": "tag/Vue.js/index.html",
-    "revision": "097ad904b04e4b9b72efd852ac2562b3"
+    "revision": "e8fac7103b3311428fc72b6631b172e4"
   },
   {
     "url": "tag/Vue/index.html",
-    "revision": "b1f0af95490911812f798f60a8c805c5"
+    "revision": "430da316d912cbd8aabf031501493ff2"
   },
   {
     "url": "404",
@@ -1058,10 +1058,6 @@ self.__precacheManifest = [
     "revision": "c602751404f7e3809e521c39c987fdc0"
   },
   {
-    "url": "tag/Developers",
-    "revision": "135abfd97c10037832544566d0b517f0"
-  },
-  {
     "url": "tag/ECommerce",
     "revision": "a32b02b040effd9478567b6e542a3dc2"
   },
@@ -1086,12 +1082,8 @@ self.__precacheManifest = [
     "revision": "b52db37e92c2460fba0f91bb71a75b18"
   },
   {
-    "url": "tag/Svelte",
-    "revision": "7e8c89f71f8bb1d4247c692afed7b129"
-  },
-  {
-    "url": "tag/UI%20Component",
-    "revision": "affc8558c90684511d4c9ab67c75785a"
+    "url": "tag/Developers",
+    "revision": "135abfd97c10037832544566d0b517f0"
   },
   {
     "url": "tag/Javascript",
@@ -1102,12 +1094,12 @@ self.__precacheManifest = [
     "revision": "6c5507aae38487e5d8622a680b6ad9d2"
   },
   {
-    "url": "tag/Jamstack",
-    "revision": "eb24e0758c13919a6003ceed57a8832e"
+    "url": "tag/Svelte",
+    "revision": "7e8c89f71f8bb1d4247c692afed7b129"
   },
   {
-    "url": "tag/Stackbit",
-    "revision": "7097dad86d4760bb0a57edc8c58191ea"
+    "url": "tag/UI%20Component",
+    "revision": "affc8558c90684511d4c9ab67c75785a"
   },
   {
     "url": "tag/Vue",
@@ -1118,12 +1110,16 @@ self.__precacheManifest = [
     "revision": "965973184f39c2e2dde92235f19c7f71"
   },
   {
-    "url": "tag/Laravel",
-    "revision": "10dde33828c0103569a017395d3519c8"
-  },
-  {
     "url": "tag/Tech%20Stack",
     "revision": "7beff8659e13c9fbe3230b460c980f03"
+  },
+  {
+    "url": "tag/Jamstack",
+    "revision": "eb24e0758c13919a6003ceed57a8832e"
+  },
+  {
+    "url": "tag/Stackbit",
+    "revision": "7097dad86d4760bb0a57edc8c58191ea"
   },
   {
     "url": "tag/Nuxt",
@@ -1134,16 +1130,20 @@ self.__precacheManifest = [
     "revision": "557a5d6669c3c31d51a63a22f3d2726f"
   },
   {
+    "url": "tag/Laravel",
+    "revision": "10dde33828c0103569a017395d3519c8"
+  },
+  {
     "url": "tag/Learning",
     "revision": "ee100aa725afaba093da8bb2e2165a2c"
   },
   {
-    "url": "tag/analytics",
-    "revision": "6b6c0de02ea89214daa3f07312a293f8"
-  },
-  {
     "url": "tag/gridsome",
     "revision": "fc3cd70cca245b01a63441dcda4c57ba"
+  },
+  {
+    "url": "tag/analytics",
+    "revision": "6b6c0de02ea89214daa3f07312a293f8"
   },
   {
     "url": "tag/nuxtjs",
@@ -1166,20 +1166,24 @@ self.__precacheManifest = [
     "revision": "858058c1adfb5a67ad576599a4dc0e08"
   },
   {
-    "url": "projects/bumi-glagah-arum",
-    "revision": "f103cfb0699ad275848616816204751a"
+    "url": "projects/e-tani-blitar",
+    "revision": "df3ff98239861021e9a5408f8d130491"
+  },
+  {
+    "url": "projects/silpusitron",
+    "revision": "1c7b2d97d8593da60a3e60d1ae54ffec"
+  },
+  {
+    "url": "projects/nusantaramartid",
+    "revision": "5c10dcca7aa4979d957512242b619fa6"
   },
   {
     "url": "projects/koin-nu-kota-blitar",
     "revision": "cb1b2e0c5a94c00108dbeee1b3ee5e48"
   },
   {
-    "url": "projects/e-tani-blitar",
-    "revision": "df3ff98239861021e9a5408f8d130491"
-  },
-  {
-    "url": "projects/nusantaramartid",
-    "revision": "5c10dcca7aa4979d957512242b619fa6"
+    "url": "projects/bumi-glagah-arum",
+    "revision": "f103cfb0699ad275848616816204751a"
   },
   {
     "url": "projects/jdih-kab-malang",
@@ -1196,10 +1200,6 @@ self.__precacheManifest = [
   {
     "url": "projects/smart-soil-selector",
     "revision": "9c5c56c9371e7d953421feb4202dfa50"
-  },
-  {
-    "url": "projects/silpusitron",
-    "revision": "1c7b2d97d8593da60a3e60d1ae54ffec"
   },
   {
     "url": "blog",
